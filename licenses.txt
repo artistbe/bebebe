@@ -1,0 +1,132 @@
+# GB27 licenses - edit directly or via tools\license.py
+# Format per user:
+#   [user]
+#   name = "nickname"
+#   hwid = "64-hex hash from hwid.exe"
+#   time = "YYYY-MM-DD"          (expiry date)
+# To revoke: delete the whole [user] block or set a past date.
+
+[user]
+name = "milov"
+hwid = "1a628b3184f4573df6d0ef8e964c94f89ed3acf7dd9df2829433b4d91f95777f"
+time = "2027-11-14"
+
+[user]
+name = ""
+hwid = ""
+time = ""
+
+[user]
+name = ""
+hwid = ""
+time = ""
+
+[user]
+name = ""
+hwid = ""
+time = ""
+
+[user]
+name = ""
+hwid = ""
+time = ""
+
+[user]
+name = ""
+hwid = ""
+time = ""
+
+[user]
+name = ""
+hwid = ""
+time = ""
+
+[user]
+name = ""
+hwid = ""
+time = ""
+
+[user]
+name = ""
+hwid = ""
+time = ""
+
+[user]
+name = ""
+hwid = ""
+time = ""
+
+[user]
+name = ""
+hwid = ""
+time = ""
+
+[user]
+name = ""
+hwid = ""
+time = ""
+
+[user]
+name = ""
+hwid = ""
+time = ""
+
+[user]
+name = ""
+hwid = ""
+time = ""
+
+[user]
+name = ""
+hwid = ""
+time = ""
+
+[user]
+name = ""
+hwid = ""
+time = ""
+
+[user]
+name = ""
+hwid = ""
+time = ""
+
+[user]
+name = ""
+hwid = ""
+time = ""
+
+[user]
+name = ""
+hwid = ""
+time = ""
+
+[user]
+name = ""
+hwid = ""
+time = ""
+
+[user]
+name = ""
+hwid = ""
+time = ""
+
+[user]
+name = ""
+hwid = ""
+time = ""
+
+[user]
+name = ""
+hwid = ""
+time = ""
+
+[user]
+name = ""
+hwid = ""
+time = ""
+
+[user]
+name = ""
+hwid = ""
+time = ""
