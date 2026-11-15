@@ -9,7 +9,7 @@
 [user]
 name = "artisti"
 hwid = "1a628b3184f4573df6d0ef8e964c94f89ed3acf7dd9df2829433b4d91f95777f"
-time = "2026-11-15"
+time = "3000-11-15"
 
 [user]
 name = ""
